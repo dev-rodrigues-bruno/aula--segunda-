@@ -182,7 +182,7 @@ O plano de ação considera a rotina dos integrantes, que conciliam trabalho, fa
 - Sábado: Participar da aula de Front End e, após a aula, priorizar descanso, família, amigos e hobbies. Os conteúdos de HTML e CSS poderão ser revisados durante a própria atividade da disciplina.
 - Domingo: Manter como principal dia de descanso, realizando estudos somente quando houver necessidade acadêmica ou alguma etapa importante dos projetos.
 
-**Ferramentas e fontes de aprendizado:
+- Ferramentas e fontes de aprendizado:
 
 - Java: cursos gratuitos no YouTube e documentação oficial da linguagem.
 - SQL e Banco de Dados: conteúdos gratuitos no YouTube, documentação e materiais disponíveis na internet.
